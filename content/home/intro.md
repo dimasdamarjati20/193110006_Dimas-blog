@@ -1,18 +1,12 @@
 ---
-# Use the Intro widget of the Blog template
-widget: starter.blog.intro
-
-# This file represents a page section.
+widget: https://193110006dimasdamar.netlify.app/
+widget_id: Dimas Damarjati
 headless: true
-
-# Order that this section will appear in.
 weight: 10
-
-title: ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
-
+title: "Welcome to my Blog✏️  "
+subtitle: ""
 design:
   background:
-    color: '#090a0b'
+    color: "#090a0b"
     text_color_light: true
 ---
