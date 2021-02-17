@@ -1,5 +1,5 @@
 ---
-widget: https://193110006dimasdamar.netlify.app/
+widget: starter.blog.intro
 widget_id: Dimas Damarjati
 headless: true
 weight: 10
